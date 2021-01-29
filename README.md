@@ -1,3 +1,5 @@
-# hello-world
+# Anime Notification Bot
 
-yo yo yo wie geht es euch , dass hier ist mein erstes repository
+Der Anime Notification Bot wird ein Programm, dass jedes Mal, wenn eine neue Episode von einem Anime herauskommt eine Nachricht per Discord sendet.
+
+
